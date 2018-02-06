@@ -59,7 +59,7 @@ contract GasCrowdsale {
         fundingGoal = 8000 ether;
         startdate = 1518134400;
         deadline = startdate + 29 days;
-        price = 0.0008 ether;
+        price = 0.0003 ether;
         tokenReward = token(0x75c79b88facE8892E7043797570c390bc2Db52A7);
     }
 
